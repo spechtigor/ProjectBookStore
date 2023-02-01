@@ -1,5 +1,10 @@
-### Book Store (Buchladen)
+# Book Store (Buchladen)
 ___
-The Book Store to manage,buy,add,remove Book.
+### About
+The Book Store to manage,add,remove Book.
 Login and logout security for both user and admin.
-The Book Store created with Python Django 
+___
+### Developers
+* spechtigor
+---
+The Book Store created with Python Django PostgreSQL
